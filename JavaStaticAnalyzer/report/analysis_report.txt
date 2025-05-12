@@ -1,0 +1,6 @@
+=== Java Project Static Analysis Report ===
+Total Classes: 11
+Total Methods: 30
+Total Method Calls: 106
+DOT Graph: method_hierarchy.dot
+Interactive Graph: graph.html (uses method_graph.json)
